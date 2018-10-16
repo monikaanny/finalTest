@@ -5,6 +5,7 @@ Quadbit Technologies Pvt. Ltd.
 <body>
 <?php 
   echo "master";
+  echo "sub";
 echo "Welcome To Git Hub , this is sub branch";
   echo "new branch creating for testing";
 ?>
